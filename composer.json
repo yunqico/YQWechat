@@ -1,0 +1,11 @@
+{
+    "name": "yunqi/wechat",
+    "description": "wechat sdk",
+    "authors": [
+        {
+            "name": "Azan",
+            "email": "icbc8@qq.com"
+        }
+    ],
+    "require": {}
+}
